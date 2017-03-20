@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'dashing',
     'django_google_maps',
     'map',
+    'frontend',
 ]
 
 MIDDLEWARE = [
@@ -58,7 +59,9 @@ ROOT_URLCONF = 'reptrack.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [
+            'frontend/templates/'
+        ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -126,5 +129,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+
 
 GOOGLE_MAPS_API_KEY = "AIzaSyDgb4irAQSCdxzb64K-K5kqPStG0jrjoIQ"
+
