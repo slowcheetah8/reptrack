@@ -2,15 +2,588 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74d57044-b997-4c7d-9e75-fac91328839d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/templates/frontend/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/reptrack.iml" afterPath="$PROJECT_DIR$/.idea/reptrack.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/img/bg-cta.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/img/bg-pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/img/demo-screen-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/img/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/apple_watch/edition/gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/apple_watch/edition/rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/apple_watch/sport/black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/apple_watch/sport/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/apple_watch/sport/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/apple_watch/sport/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/apple_watch/sport/white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/apple_watch/watch/metal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/apple_watch/watch/steel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_s3/s3_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_s3/s3_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_s3/s3_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_s3/s3_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_tab4/galaxy_tab4_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_tab4/galaxy_tab4_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_tab4_small/galaxy_tab4_black_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/galaxy_tab4_small/galaxy_tab4_white_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/imac/imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad/ipad_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad/ipad_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad/ipad_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad/ipad_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_air/ipad_air_gray_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_air/ipad_air_gray_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_air/ipad_air_silver_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_air/ipad_air_silver_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_gold_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_gold_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_gray_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_gray_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_silver_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_silver_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_land_silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_port_silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone5/iphone5_land.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone5/iphone5_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone5/iphone5_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone5/iphone5_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone5/iphone5_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6/iphone_6_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6/iphone_6_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6/iphone_6_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6/iphone_6_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6/iphone_6_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6/iphone_6_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_black_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_black_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_gold_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_gold_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_white_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_se/iphone_se_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_se/iphone_se_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_se/iphone_se_land_rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_se/iphone_se_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_se/iphone_se_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_se/iphone_se_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_se/iphone_se_port_rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/iphone_se/iphone_se_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/lumia920/lumia920_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/lumia920/lumia920_land.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/lumia920/lumia920_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/lumia_930/lumia_930_dark_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/lumia_930/lumia_930_dark_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/lumia_930/lumia_930_light_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/lumia_930/lumia_930_light_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/macbook/macbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/macbook_2015/gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/macbook_2015/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/macbook_2015/silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/nexus7/nexus7_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/nexus7/nexus7_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/nexus_6/nexus_6_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/nexus_6/nexus_6_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/samsung_tv/samsung_tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/surface/surface.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/simple-line-icons/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/simple-line-icons/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/simple-line-icons/fonts/Simple-Line-Icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/Roboto-Bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/Roboto-Light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/Roboto-Regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/img/bg-cta.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/img/bg-pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/img/demo-screen-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/apple_watch/edition/gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/apple_watch/edition/rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/apple_watch/sport/black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/apple_watch/sport/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/apple_watch/sport/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/apple_watch/sport/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/apple_watch/sport/white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/apple_watch/watch/metal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/apple_watch/watch/steel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_s3/s3_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_s3/s3_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_s3/s3_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_s3/s3_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_s5/galaxy_s5_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_tab4/galaxy_tab4_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_tab4/galaxy_tab4_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_tab4_small/galaxy_tab4_black_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/galaxy_tab4_small/galaxy_tab4_white_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/imac/imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad/ipad_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad/ipad_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad/ipad_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad/ipad_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_air/ipad_air_gray_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_air/ipad_air_gray_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_air/ipad_air_silver_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_air/ipad_air_silver_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_gold_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_gold_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_gray_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_gray_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_silver_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_air_2/ipad_air_2_silver_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_land_silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/ipad_pro/ipad_pro_port_silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone5/iphone5_land.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone5/iphone5_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone5/iphone5_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone5/iphone5_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone5/iphone5_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6/iphone_6_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6/iphone_6_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6/iphone_6_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6/iphone_6_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6/iphone_6_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6/iphone_6_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_black_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_black_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_gold_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_gold_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_white_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_se/iphone_se_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_se/iphone_se_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_se/iphone_se_land_rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_se/iphone_se_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_se/iphone_se_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_se/iphone_se_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_se/iphone_se_port_rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/iphone_se/iphone_se_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/lumia920/lumia920_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/lumia920/lumia920_land.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/lumia920/lumia920_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/lumia_930/lumia_930_dark_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/lumia_930/lumia_930_dark_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/lumia_930/lumia_930_light_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/lumia_930/lumia_930_light_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/macbook/macbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/macbook_2015/gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/macbook_2015/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/macbook_2015/silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/nexus7/nexus7_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/nexus7/nexus7_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/nexus_6/nexus_6_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/nexus_6/nexus_6_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/samsung_tv/samsung_tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/surface/surface.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/simple-line-icons/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/simple-line-icons/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/simple-line-icons/fonts/Simple-Line-Icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_11x11_icon_arrows_leftright.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_11x11_icon_arrows_updown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_11x11_icon_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_11x11_icon_doc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_11x11_icon_folder_closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_11x11_icon_folder_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_11x11_icon_minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_11x11_icon_plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_11x11_icon_resize_se.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_35x9_colorpicker_indicator.gif.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_7x7_arrow_down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_7x7_arrow_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_7x7_arrow_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/222222_7x7_arrow_up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_11x11_icon_arrows_leftright.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_11x11_icon_arrows_updown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_11x11_icon_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_11x11_icon_doc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_11x11_icon_folder_closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_11x11_icon_folder_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_11x11_icon_minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_11x11_icon_plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_7x7_arrow_down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_7x7_arrow_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_7x7_arrow_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/888888_7x7_arrow_up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/8ab9ff_40x100_textures_02_glass_50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/d8d8d8_40x100_textures_02_glass_90.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/e0e0e0_40x100_textures_02_glass_80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/f3f3f3_40x100_textures_01_flat_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_11x11_icon_arrows_leftright.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_11x11_icon_arrows_updown.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_11x11_icon_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_11x11_icon_doc.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_11x11_icon_folder_closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_11x11_icon_folder_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_11x11_icon_minus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_11x11_icon_plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_7x7_arrow_down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_7x7_arrow_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_7x7_arrow_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ffffff_7x7_arrow_up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-bg_flat_30_cccccc_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-bg_flat_50_5c5c5c_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-bg_glass_20_555555_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-bg_glass_40_0078a3_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-bg_glass_40_ffc73d_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-bg_gloss-wave_25_333333_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-bg_highlight-soft_80_eeeeee_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-bg_inset-soft_25_000000_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-bg_inset-soft_30_f58400_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-icons_4b8e0b_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-icons_a83300_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-icons_cccccc_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/apps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/css/new-age.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/css/new-age.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/img/app-store-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/img/google-play-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/js/new-age.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/js/new-age.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/less/new-age.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/device-mockups.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/device-mockups.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/device-mockups2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/device-mockups/device-mockups2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/simple-line-icons/css/simple-line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/simple-line-icons/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/simple-line-icons/less/simple-line-icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/lib/simple-line-icons/scss/simple-line-icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/static/frontend/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/frontend/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/map/migrations/0002_auto_20170320_0746.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/fonts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/fonts/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-no.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/SelectBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/actions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/cancel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/change_form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/collapse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/inlines.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/inlines.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/jquery.init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/popup_response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate_init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/timeparse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/urlify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/dashing.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/dashing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/dashing.utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/d3/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/d3/d3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/d3/d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/font-awesome/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/jquery-1.11.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/jquery-gridster/jquery.gridster.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/jquery-gridster/jquery.gridster.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/jquery-knob/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/jquery-knob/jquery.knob.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/markerclusterer/markerclusterer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/markerclusterer/markerclusterer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment-with-locales.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ar-sa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ar-tn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/bo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/de-at.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/fy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/hy-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/jv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/sr-cyrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/tl-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/tzm-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/tzm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/locale/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/moment/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/preloadjs/preloadjs-0.6.1.combined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/preloadjs/preloadjs-0.6.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/rickshaw/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/rickshaw/rickshaw.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/rickshaw/rickshaw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/rickshaw/rickshaw.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/rivets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/libs/sightglass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/clock/clock.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/clock/clock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/clock/clock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/graph/graph.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/graph/graph.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/graph/graph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/knob/knob.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/knob/knob.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/knob/knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/list/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/list/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/list/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/map/map.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/map/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/number/number.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/number/number.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/dashing/widgets/number/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/django_google_maps/css/google-maps-admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/django_google_maps/js/google-maps-admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/css/new-age.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/css/new-age.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/img/app-store-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/img/google-play-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/js/new-age.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/js/new-age.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/less/new-age.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/device-mockups.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/device-mockups.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/device-mockups2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/device-mockups/device-mockups2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/simple-line-icons/css/simple-line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/simple-line-icons/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/simple-line-icons/less/simple-line-icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/lib/simple-line-icons/scss/simple-line-icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/frontend/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/schedule.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/schedule.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/map/admin.py" afterPath="$PROJECT_DIR$/map/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/map/models.py" afterPath="$PROJECT_DIR$/map/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reptrack/settings.py" afterPath="$PROJECT_DIR$/reptrack/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reptrack/urls.py" afterPath="$PROJECT_DIR$/reptrack/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frontend/templates/frontend/index.html" afterPath="$PROJECT_DIR$/frontend/templates/frontend/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +593,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/reptrack$Reptrack_Server.coverage" NAME="Reptrack Server Coverage Results" MODIFIED="1490004473984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reptrack$Reptrack_Server.coverage" NAME="Reptrack Server Coverage Results" MODIFIED="1490010743797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -39,24 +612,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reptrack/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/templates/frontend/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding>
-                <element signature="e#6495#6501#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="110">
+              <caret line="152" column="81" lean-forward="false" selection-start-line="152" selection-start-column="81" selection-end-line="152" selection-end-column="81" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -64,8 +635,8 @@
       <file leaf-file-name="new-age.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/static/frontend/css/new-age.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="257" column="22" lean-forward="false" selection-start-line="257" selection-start-column="22" selection-end-line="257" selection-end-column="22" />
+            <state relative-caret-position="90">
+              <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -96,6 +667,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="slowcheetah8" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -148,6 +724,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -286,7 +863,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -396,6 +972,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -555,29 +1137,36 @@
       <option name="project" value="LOCAL" />
       <updated>1489964139924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="css changes">
+      <created>1490009056446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490009056446</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="25" width="1026" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2607362" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26584867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="manage.py@reptrack" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@reptrack" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -591,13 +1180,38 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="css changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="css changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/reptrack/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/templates/frontend/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/static/frontend/css/new-age.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4626">
+          <caret line="257" column="22" lean-forward="false" selection-start-line="257" selection-start-column="22" selection-end-line="257" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/reptrack/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -620,9 +1234,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,9 +1241,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,9 +1266,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -668,9 +1273,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -710,9 +1312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -728,7 +1327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -736,7 +1334,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,7 +1341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,20 +1366,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/templates/includes/navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/templates/includes/navbar.html" />
     <entry file="file://$PROJECT_DIR$/reptrack/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -798,7 +1384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
           <caret line="125" column="0" lean-forward="true" selection-start-line="125" selection-start-column="0" selection-end-line="127" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +1391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="72" column="16" lean-forward="false" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,32 +1398,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="73" column="19" lean-forward="false" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reptrack/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/static/frontend/css/new-age.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="257" column="22" lean-forward="false" selection-start-line="257" selection-start-column="22" selection-end-line="257" selection-end-column="22" />
+        <state relative-caret-position="90">
+          <caret line="26" column="45" lean-forward="false" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/templates/frontend/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="e#6495#6501#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reptrack/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="110">
+          <caret line="152" column="81" lean-forward="false" selection-start-line="152" selection-start-column="81" selection-end-line="152" selection-end-column="81" />
           <folding />
         </state>
       </provider>
